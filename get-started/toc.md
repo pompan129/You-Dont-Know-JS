@@ -5,34 +5,40 @@
 * Foreword
 * Preface
 * Chapter 1: What Is JavaScript?
-	* Name
-	* Many Faces
-	* Specification
-	* Backwards & Forwards
-	* What's In an Interpretation?
+    * About This Book
+    * What's With That Name?
+    * Language Specification
+    * Many Faces
+    * Backwards & Forwards
+    * What's in an Interpretation?
     * Strictly Speaking
-	* Defined
-* Chapter 2: Getting To Know JS
-	* Files As Programs
-	* Values
-	* Variables
-	* Functions
+    * Defined
+* Chapter 2: Surveying JS
+    * Each File is a Program
+    * Values
+    * Declaring and Using Variables
+    * Functions
     * Comparisons
-    * Code Organization
-    * Before You Go On
-* Chapter 3: Exploring Deeper
+    * How We Organize in JS
+    * The Rabbit Hole Deepens
+* Chapter 3: Digging To The Roots Of JS
     * Closure
     * `this` Keyword
     * Prototypes
     * Iteration
-    * Asking Why
-* Chapter 4: The Rest
+    * Asking "Why?"
+* Chapter 4: The Bigger Picture
     * Pillar 1: Scope and Closure
     * Pillar 2: Prototypes
     * Pillar 3: Types and Coercion
+    * With the Grain
     * In Order
-    * With The Grain
-* Appendix A: Practice, Practice, Practice!
+* Appendix A: Exploring Further
+    * Values vs. References
+    * So Many Function Forms
+    * Coercive Conditional Comparison
+    * Prototypal "Classes"
+* Appendix B: Practice, Practice, Practice!
     * Practicing Comparisons
     * Practicing Closure
     * Practicing Prototypes
